@@ -1,8 +1,4 @@
 
-| [Website](http://links.otrenav.com/website) | [Twitter](http://links.otrenav.com/twitter) | [LinkedIn](http://links.otrenav.com/linkedin)  | [GitHub](http://links.otrenav.com/github) | [GitLab](http://links.otrenav.com/gitlab) | [CodeMentor](http://links.otrenav.com/codementor) |
-
----
-
 # Internet wages
 
 - Omar Trejo
@@ -18,13 +14,3 @@ inequality gap between social classes. The research being analyzed is based on
 We replicated the research for Mexico, and found a similar result. However,
 instrumental variables are still needed to provide some causality arguments
 which are currently missing.
-
-![Internet and local wages](https://s31.postimg.org/70m7bgvt7/internet_wages.png)]
-
-If you have any feedback, let us know!
-
----
-
-> "The best ideas are common property."
->
-> —Seneca
