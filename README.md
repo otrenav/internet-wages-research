@@ -1,6 +1,8 @@
 
 [Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
 
+---
+
 # Internet wages
 
 - Omar Trejo
@@ -16,3 +18,7 @@ classes. The research being analyzed is based on
 We replicated the research for Mexico, and found a similar result. However,
 instrumental variables are still needed to provide some causality arguments
 which are currently missing.
+
+---
+
+> "We are the people we have been waiting for."
